@@ -1,4 +1,4 @@
 <?php
-echo '<body style="background-color:orange">';
-print "Hello, Test GitOps.  Chris 123  " . PHP_VERSION . "\n";
+echo '<body style="background-color:blue">';
+print "Hello, Chris. Working from Dev Spaces  " . PHP_VERSION . "\n";
 ?>
