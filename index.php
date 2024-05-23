@@ -2,6 +2,7 @@
 <html>
 <body style="background-color:powderblue;">
 <h1>Amazing One Page App</h1>
+<h2>Version 1.0.4</h2>
 
 <?php
 	// color suggestions
