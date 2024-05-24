@@ -1,0 +1,16 @@
+[user]
+	name = Demo User
+	email = chpeters@redhat.com
+[init]
+	defaultBranch = main
+[alias]
+	ba = branch --all
+	br = branch
+	ci = commit
+	cm = commit -m
+	co = checkout
+	d = diff
+	ds = diff --staged
+	st = status
+[pull]
+	rebase = true
