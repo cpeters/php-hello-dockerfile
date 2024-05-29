@@ -8,7 +8,7 @@
 	// color suggestions
 	// lightgreen, powderblue, orange
 	//print "Hello, Chris. Working from Dev Spaces  " . PHP_VERSION . "\n";
-	echo "Hello, Chris. Test template update webhook<br><br> The current time is " . date("H:i:s") . "<br>";
+	echo "Hello, Advance Auto Parts<br><br> The current time is " . date("H:i:s") . "<br>";
 ?>
 
 </body>
