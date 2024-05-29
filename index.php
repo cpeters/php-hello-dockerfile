@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<body style="background-color:powderblue;">
+<body style="background-color:lightgreen;">
 <h1>Amazing One Page App</h1>
-<h2>Version 3.0.1</h2>
+<h2>Version 4.0.0</h2>
 
 <?php
 	// color suggestions
